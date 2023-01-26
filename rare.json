@@ -1,0 +1,12 @@
+{
+    "name": "⚡️Rare NFTs",
+    "description": "Properties:\n    ▫️ The owner is assigned Tier 2 - Orbit;    ▫️1% cashback on IDO participation in $GGR tokens (credited to the amount of claimed project tokens);\n    ▫️ Ability to use the received $GGR for staking;\n    ▫️ access to all projects and a guaranteed allocation of $400.\n\nQuantity - 500.\nNFT price - $475*. Not for sale",
+    "image": "https://raw.githubusercontent.com/BradDev01/Gagarin-Launch-Collection/main/nft/%id%.jpg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rare"
+        }
+    ],
+    "marketplace": "getgems.io"
+}

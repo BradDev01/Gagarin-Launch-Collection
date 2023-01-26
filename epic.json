@@ -1,0 +1,12 @@
+{
+    "name": "⚡️Epic NFTs",
+    "description": "Properties:\n    ▫️ The owner is assigned Tier 3 - Galaxy;\n    ▫️ 5% cashback on IDO participation in $GGR tokens;\n    ▫️ opportunity to use the $GGR received for staking;\n    ▫️ access to all projects and guaranteed allocation - $600.\n\nQuantity - 10.\nNFT price - $1900*. Not for sale",
+    "image": "https://raw.githubusercontent.com/BradDev01/Gagarin-Launch-Collection/main/nft/%id%.jpg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Epic"
+        }
+    ],
+    "marketplace": "getgems.io"
+}
